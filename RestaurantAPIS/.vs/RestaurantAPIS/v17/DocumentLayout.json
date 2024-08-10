@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\controllers\\cocinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\controllers\\cocinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\models\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\models\\mesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\controllers\\meseroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\controllers\\meseroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\models\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\models\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\restaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\restaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\controllers\\hostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\controllers\\hostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|c:\\desarrollos de .asp\\restaurantapis\\restaurantapis\\models\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB1FE8-BAAD-4681-AA28-9F18DC6DCB68}|RestaurantAPIS\\RestaurantAPIS.csproj|solutionrelative:restaurantapis\\models\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CocinaController.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Controllers\\CocinaController.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\Controllers\\CocinaController.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Controllers\\CocinaController.cs",
+              "RelativeToolTip": "RestaurantAPIS\\Controllers\\CocinaController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAxwC4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:22:48.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MeserosController.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Controllers\\MeserosController.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\Controllers\\MeserosController.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Controllers\\MeserosController.cs",
+              "RelativeToolTip": "RestaurantAPIS\\Controllers\\MeserosController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:05:29.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\Empleado.cs",
+              "RelativeToolTip": "RestaurantAPIS\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:16:08.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mesa.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\Mesa.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\Models\\Mesa.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\Mesa.cs",
+              "RelativeToolTip": "RestaurantAPIS\\Models\\Mesa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:18:08.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HostController.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Controllers\\HostController.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\Controllers\\HostController.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Controllers\\HostController.cs",
+              "RelativeToolTip": "RestaurantAPIS\\Controllers\\HostController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:49:12.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\Pedido.cs",
+              "RelativeToolTip": "RestaurantAPIS\\Models\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:56:43.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\Models\\Producto.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\Producto.cs",
+              "RelativeToolTip": "RestaurantAPIS\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:15:48.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoDetalle.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\PedidoDetalle.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\Models\\PedidoDetalle.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\PedidoDetalle.cs",
+              "RelativeToolTip": "RestaurantAPIS\\Models\\PedidoDetalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:57:58.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RestaurantContext.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\RestaurantContext.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\RestaurantContext.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\RestaurantContext.cs",
+              "RelativeToolTip": "RestaurantAPIS\\RestaurantContext.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwC0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:02:12.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "RestaurantAPIS\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:49:41.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\Program.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Program.cs",
+              "RelativeToolTip": "RestaurantAPIS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:35:11.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\Topping.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\Models\\Topping.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\Topping.cs",
+              "RelativeToolTip": "RestaurantAPIS\\Models\\Topping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:25:45.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\appsettings.json",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\appsettings.json",
+              "RelativeToolTip": "RestaurantAPIS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T01:46:47.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "RestaurantAPIS\\Models\\Rol.cs",
+              "ToolTip": "C:\\Desarrollos de .ASP\\RestaurantAPIS\\RestaurantAPIS\\Models\\Rol.cs",
+              "RelativeToolTip": "RestaurantAPIS\\Models\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T02:15:25.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
