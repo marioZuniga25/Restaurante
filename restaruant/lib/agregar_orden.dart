@@ -166,6 +166,7 @@ class _PedidoPageState extends State<PedidoPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Pedido para Mesa ${widget.idMesa}'),
+        backgroundColor: Colors.blue,
       ),
       body: Column(
         children: [

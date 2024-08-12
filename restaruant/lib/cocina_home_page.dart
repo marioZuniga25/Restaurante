@@ -149,6 +149,7 @@ class _CocinaPageState extends State<CocinaPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Cocina'),
+        backgroundColor: Colors.blue,
       ),
       body: ListView.builder(
         itemCount: pedidos.length,

@@ -31,5 +31,44 @@ namespace RestaurantAPIS.Controllers
             return Ok(mesas);
         }
 
+        
+
+        [HttpGet("GetEmpleadoAsignado/{idMesa}")]
+        public async Task<ActionResult<Empleado>> GetEmpleadoAsignado(int idMesa)
+        {
+            var mesa = await _context.Mesas.FindAsync(idMesa);
+
+            if (mesa == null || mesa.idEmpleado == null)
+                return NotFound();
+
+            var empleado = await _context.Empleados.FindAsync(mesa.idEmpleado);
+
+            return empleado ?? (ActionResult<Empleado>)NotFound();
+        }
+
+        [HttpGet("GetEmpleadosDisponibles")]
+        public async Task<ActionResult<IEnumerable<Empleado>>> GetEmpleadosDisponibles()
+        {
+            var empleados = await _context.Empleados.Where(e => e.idRol.Equals(2)).ToListAsync();
+            return empleados;
+        }
+
+
+        [HttpPost("AsignarMesa/{idMesa}")]
+        public async Task<IActionResult> AsignarMesa(int idMesa, [FromBody] int idEmpleado)
+        {
+            var mesa = await _context.Mesas.FindAsync(idMesa);
+            if (mesa == null)
+                return NotFound();
+
+            mesa.idEmpleado = idEmpleado;
+            mesa.status = 2;
+
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+
     }
 }

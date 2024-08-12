@@ -20,12 +20,15 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+
       title: "Louigi's",
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
+        
       ),
-      home: const LoginPage(), 
+      home: const LoginPage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
@@ -115,7 +118,7 @@ class _LoginPageState extends State<LoginPage> {
         case 6:
           Navigator.pushReplacement(
             context,
-            MaterialPageRoute(builder: (context) => AdminHomePage(empleado: user)),
+            MaterialPageRoute(builder: (context) => AdminPage()),
           );
           break;
         default:
@@ -136,6 +139,7 @@ class _LoginPageState extends State<LoginPage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Login'),
+        backgroundColor: Colors.blue,
       ),
       body: Padding(
         padding: const EdgeInsets.all(30.0),

@@ -46,10 +46,57 @@ namespace RestaurantAPIS.Controllers
         public async Task<IActionResult> addUsuario([FromBody] Empleado request)
         {
             
-
             await _context.Empleados.AddAsync(request);
             await _context.SaveChangesAsync();
             return Ok(request);
+        
+        }
+
+        [HttpDelete]
+        [Route("EliminarUsuario/{id:int}")]
+        public async Task<IActionResult> deleteUsuario(int id)
+        {
+            var usuarioEliminar = await _context.Empleados.FindAsync(id);
+
+            if (usuarioEliminar == null)
+            {
+                return BadRequest("No se encontro la Materia Prima.");
+            }
+            _context.Empleados.Remove(usuarioEliminar);
+
+            await _context.SaveChangesAsync();
+
+            return Ok();
+
+        }
+
+
+        [HttpPut("ModificarEmpleado")]
+        public async Task<IActionResult> updateEmpleado(int id, [FromBody] Empleado request)
+        {
+            var empleadoModificar = await _context.Empleados.FindAsync(id);
+
+            if (empleadoModificar == null)
+            {
+                return BadRequest("No existe lel Empleado");
+            }
+
+            empleadoModificar.nombre= request.nombre;
+            empleadoModificar.contrasenia = request.contrasenia;
+            empleadoModificar.idRol = request.idRol;
+
+
+            try
+            {
+                await _context.SaveChangesAsync();
+            }
+            catch
+            {
+                return NotFound();
+
+            }
+
+            return Ok();
         }
 
 

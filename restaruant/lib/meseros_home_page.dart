@@ -104,6 +104,7 @@ class _MeserosHomePageState extends State<MeserosHomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Meseros Home Page'),
+        backgroundColor: Colors.blue,
       ),
       body: _isLoading
         ? Center(child: CircularProgressIndicator())
